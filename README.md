@@ -26,6 +26,10 @@ Potential Insights:
 Peak sales periods for better inventory management.
 Best-selling products and categories for targeted marketing.
 Regions with high revenue for potential expansion opportunities.
+
+Task 1: Output
+![image](https://github.com/user-attachments/assets/bb0a956d-5ea9-4bff-877a-1ed62fb8d27f)
+
 Task 2: Social Media Sentiment Analysis
 Objective:
 Analyze social media data (e.g., tweets) to understand public sentiment towards specific topics, products, or events. The analysis helps uncover trends and patterns in public opinion.
