@@ -1,4 +1,4 @@
- /*
+/*
 Sample Sales Data (CSV Format):
 Transaction ID,Date,Product,Quantity,Unit Price,Total Sale,Payment Method
 1,2025-01-01,Product A,3,50,150,Credit Card
